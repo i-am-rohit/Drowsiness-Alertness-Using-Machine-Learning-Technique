@@ -1,0 +1,248 @@
+ImageName;Eye-Aspect-Ratio;Mouth-Aspect-Ratio;Class
+img1;0.2669;0.2631;not sleeping not yawning
+img2;0.1339;0.2491;sleeping
+img3;0.1163;0.2835;sleeping
+img4;0.3881;0.4281;not sleeping not yawning
+img5;0.1764;0.9637;sleeping and yawning
+img6;0.3192;1.0459;yawning
+img7;0.4393;0.3071;not sleeping not yawning
+img8;0.2706;1.3005;yawning
+img9;0.1953;0.9818;sleeping and yawning
+img10;0.1985;1.2872;sleeping and yawning
+img11;0.1641;0.7331;sleeping and yawning
+img12;0.2282;0.8671;sleeping and yawning
+img14;0.3205;0.3546;not sleeping not yawning
+img15;0.4756;1.1095;yawning
+img16;0.1658;0.2876;sleeping
+img17;0.2028;1.202;sleeping and yawning
+img18;0.2801;0.3917;not sleeping not yawning
+img19;0.2976;0.3334;not sleeping not yawning
+img20;0.2836;0.3632;not sleeping not yawning
+img21;0.2613;0.4358;not sleeping not yawning
+img22;0.2675;0.5525;not sleeping not yawning
+img23;0.3464;0.4034;not sleeping not yawning
+img24;0.3362;0.4712;not sleeping not yawning
+img25;0.1449;0.5555;sleeping
+img26;0.1434;0.4853;sleeping
+img27;0.3776;0.3935;not sleeping not yawning
+img28;0.3356;0.3498;not sleeping not yawning
+img29;0.3287;0.4127;not sleeping not yawning
+img30;0.1632;0.7463;sleeping and yawning
+img31;0.3718;1.0506;yawning
+img32;0.1839;1.0023;sleeping and yawning
+img33;0.2642;1.3534;yawning
+img34;0.3433;0.9594;yawning
+img35;0.332;0.9911;yawning
+img36;0.419;0.711;yawning
+img37;0.3362;0.4712;not sleeping not yawning
+img38;0.0616;0.857;sleeping and yawning
+img39;0.2395;1.1912;sleeping and yawning
+img40;0.1378;0.7592;sleeping and yawning
+img41;0.9332;1.1631;sleeping and yawning
+img42;0.1871;0.7709;sleeping and yawning
+img 43;0.4083;0.9208;yawning
+img44;0.2149;0.8574;sleeping and yawning
+img45;0.35;1.3263;yawning
+img46;0.1762;1.0138;sleeping and yawning
+img47;0.3655;0.9895;yawning
+img48;0.2752;0.3195;not sleeping not yawning
+img49;0.1595;0.4559;sleeping
+img50;0.2373;0.5092;sleeping
+img51;0.3279;0.1966;not sleeping not yawning
+img52;0.3361;0.2582;not sleeping not yawning
+img53;0.3382;0.3478;not sleeping not yawning
+img54;0.2938;0.3877;not sleeping not yawning
+img55;0.3257;0.3858;not sleeping not yawning
+img56;0.3542;0.3586;not sleeping not yawning
+img57;0.3218;0.5532;not sleeping not yawning
+img58;0.0981;0.2715;sleeping
+img59;0.1101;0.2608;sleeping
+img60;0.1829;0.748;sleeping
+img61;0.1805;0.2635;sleeping
+img62;0.4014;0.588;not sleeping not yawning
+img63;0.0696;0.4063;sleeping
+img64;0.3171;0.4687;not sleeping not yawning
+img65;0.3397;0.2341;not sleeping not yawning
+img66;0.282;0.3029;not sleeping not yawning
+img67;0.1509;0.3873;sleeping
+img68;0.3443;0.329;not sleeping not yawning
+img69;0.2081;0.4016;sleeping
+img70;0.263;0.1588;not sleeping not yawning
+img71;0.2638;0.4224;not sleeping not yawning
+img72;0.1665;0.4135;sleeping
+img73;0.074;0.6838;sleeping and yawning
+img74;0.193;0.7613;sleeping and yawning
+img75;0.1635;0.3623;sleeping
+img76;0.1533;0.2499;sleeping
+img77;0.2013;0.9362;sleeping and yawning
+img78;0.2372;0.6827;sleeping and yawning
+img79;0.2389;1.547;sleeping and yawning
+img80;0.2255;0.455;sleeping
+img81;0.1307;1.2637;sleeping and yawning
+img82;0.2654;0.3982;not sleeping not yawning
+img83;0.3754;0.6386;yawning
+img84;0.359;0.4008;not sleeping not yawning
+img85;0.2394;0.578;sleeping
+img86;0.4233;0.9054;yawning
+img87;0.3019;0.3561;not sleeping not yawning
+img88;0.1492;0.4932;sleeping
+img89;0.143;0.2098;sleeping
+img90;0.2072;0.2693;sleeping
+img91;0.1185;0.3148;sleeping
+img92;0.1627;0.3603;sleeping
+img93;0.1398;0.4315;sleeping
+img94;0.0565;0.985;sleeping and yawning
+img95;0.1536;0.3201;sleeping
+img96;0.3379;0.1999;not sleeping not yawning
+img97;0.3208;0.2369;not sleeping not yawning
+img98;0.1483;0.2472;sleeping
+img99;0.1227;0.3896;sleeping
+img100;0.0976;0.2349;sleeping
+img101;0.119;0.6002;sleeping and yawning
+img102;0.1773;0.4024;sleeping
+img103;0.2031;0.2383;sleeping
+img104;0.1557;0.2826;sleeping
+img105;0.1352;0.5133;sleeping
+img106;0.2551;0.7646;yawning
+img107;0.3921;0.2531;not sleeping not yawning
+img108;0.1793;0.4467;sleeping
+img109;0.2256;0.3694;sleeping
+img110;0.383;0.5011;not sleeping not yawning
+img111;0.3296;0.291;not sleeping not yawning
+img112;0.3061;0.3993;not sleeping not yawning
+img113;0.3265;1.14;yawning
+img114;0.1626;1.3136;sleeping and yawning
+img115;0.2809;1.0395;yawning
+img116;0.2366;0.8361;sleeping and yawning
+img117;0.196;1.1586;sleeping and yawning
+img118;0.4196;0.1477;not sleeping not yawning
+img119;0.2916;0.5181;not sleeping not yawning
+img120;0.0716;0.4009;sleeping
+img121;0.1278;0.6655;sleeping and yawning
+img122;0.3606;0.6429;yawning
+img123;0.389;1.0872;yawning
+img124;0.3093;1.0253;yawning
+img125;0.1249;0.6608;sleeping and yawning
+img 126;0.4048;0.4017;not sleeping not yawning
+img127;0.3679;0.501;not sleeping not yawning
+img128;0.1811;0.9117;sleeping and yawning
+img 129;0.6575;0.2753;not sleeping not yawning
+img130;0.3912;1.193;yawning
+img131;0.2721;0.2753;not sleeping not yawning
+img132;0.2923;0.3889;not sleeping not yawning
+img133;0.326;0.2247;not sleeping not yawning
+img134;0.175;0.3299;sleeping
+img135;0.2482;0.795;sleeping and yawning
+img136;0.1371;1.1089;sleeping and yawning
+img137;0.3299;0.6868;yawning
+img138;0.2203;1.1942;sleeping and yawning
+img139;0.2688;1.0394;yawning
+img 140;0.2155;0.943;sleeping and yawning
+img 141;0.3538;1.4619;yawning
+img142;0.1429;1.214;sleeping and yawning
+img143;0.1657;0.8592;sleeping and yawning
+img144;0.1814;0.7107;sleeping and yawning
+img145;0.2949;0.1903;not sleeping not yawning
+img146;0.2706;0.2168;not sleeping not yawning
+img147;0.2799;0.7081;yawning
+img148;0.154;0.798;sleeping and yawning
+img149;0.1724;0.8826;sleeping and yawning
+img150;0.2561;2128;not sleeping not yawning
+img151;3001;1.116;yawning
+img152;0.0722;0.4087;sleeping
+img153;0.3136;0.3535;not sleeping not yawning
+img154;0.2607;0.9349;yawning
+img155;0.2609;1.1424;yawning
+img156;0.1422;0.9589;sleeping and yawning
+img157;0.1424;0.4061;sleeping
+img158;0.3623;1.076;yawning
+img159;0.2053;0.4493;sleeping
+img160;0.2451;0.9761;sleeping and yawning
+img161;0.3334;0.4013;not sleeping not yawning
+img162;0.5268;0.6383;not sleeping not yawning
+img163;0.3502;0.3102;not sleeping not yawning
+img164;0.173;0.2613;sleeping
+img165;0.3638;0.5488;not sleeping not yawning
+img166;0.3113;0.4285;not sleeping not yawning
+img167;0.362;0.3001;not sleeping not yawning
+img168;0.2662;0.3029;not sleeping not yawning
+img169;0.4349;0.4595;not sleeping not yawning
+img170;0.26073;0.59;not sleeping not yawning
+img171;0.3453;0.7317;yawning
+img172;0.4174;0.4663;not sleeping not yawning
+img173;0.2784;0.5668;not sleeping not yawning
+img174;0.289;0.4204;not sleeping not yawning
+img175;0.4607;0.4771;not sleeping not yawning
+img176;0.1414;0.4284;sleeping
+img177;0.3084;0.4942;not sleeping not yawning
+img178;0.1951;0.4266;sleeping
+img179;0.2803;0.2923;not sleeping not yawning
+img180;0.2852;0.388;not sleeping not yawning
+img181;0.3679;0.4514;not sleeping not yawning
+img182;0.3189;0.3111;not sleeping not yawning
+img183;0.2012;0.1419;sleeping
+img184;0.2828;0.388;sleeping
+img185;0.4019;0.5045;not sleeping not yawning
+img186;0.2878;0.5182;not sleeping not yawning
+img187;0.179;0.3012;sleeping
+img188;0.2303;0.215;sleeping
+img189;0.3758;0.5948;not sleeping not yawning
+img190;0.217;0.5265;sleeping
+img191;0.4635;0.4847;not sleeping not yawning
+img192;0.3952;0.443;not sleeping not yawning
+img193;0.2678;0.6607;not sleeping not yawning
+img194;0.2668;0.3229;not sleeping not yawning
+img195;0.3445;2727;not sleeping not yawning
+img196;0.4143;0.3597;not sleeping not yawning
+img197;0.3024;0.3342;not sleeping not yawning
+img198;0.4537;0.4261;not sleeping not yawning
+img 199;0.2426;0.3222;sleeping
+img200;0.4389;0.5414;not sleeping not yawning
+img201;0.4467;1.2325;yawning
+img202;0.4663;0.6266;yawning
+img203;0.3508;0.4014;not sleeping not yawning
+img204;0.3533;0.9547;yawning
+img205;0.2125;0.9338;sleeping and yawning
+img206;0.384;0.3832;not sleeping not yawning
+img207;0.1842;0.4;sleeping
+img208;0.0779;0.3852;sleeping
+img209;0.1184;0.3282;sleeping
+img 210;0.1599;0.3105;sleeping
+img211;0.388;0.428;not sleeping not yawning
+img212;0.0992;0.4406;sleeping
+img213;0.2264;0.3721;sleeping
+img214;0.302;0.3636;not sleeping not yawning
+img215;0.3222;0.5095;not sleeping not yawning
+img216;0.32;0.3569;not sleeping not yawning
+img217;0.3954;0.3053;not sleeping not yawning
+img219;0.3161;0.386;not sleeping not yawning
+img220;0.1566;0.8332;sleeping and yawning
+img221;0.2285;0.5719;sleeping
+img222;0.3025;0.2012;not sleeping not yawning
+img223;0.2395;0.9801;sleeping and yawning
+img224;0.0626;0.8175;sleeping and yawning
+img225;0.3902;0.3548;not sleeping not yawning
+img226;0.225;0.6567;sleeping and yawning
+img227;0.2481;0.2242;sleeping
+img228;0.2236;0.5872;sleeping
+img229;0.3182;0.8891;yawning
+img230;0.3414;0.4458;not sleeping not yawning
+img231;0.2572;0.679;yawning
+img232;0.3107;0.4854;not sleeping not yawning
+img233;0.129;0.3531;sleeping
+img234;0.2694;0.3637;not sleeping not yawning
+img235;0.386;1.1943;yawning
+Img236;0.1649;0.7878;sleeping and yawning
+img237;0.1212;0.8917;sleeping and yawning
+img238;0.1582;0.5592;sleeping
+img240;0.1824;0.3322;sleeping
+img241;0.2219;0.7038;sleeping and yawning
+img242;0.1632;0.27;sleeping
+img243;0.2623;1.084;yawning
+img244;0.1762;0.1649;sleeping
+img245;0.1872;0.444;sleeping
+img246;0.3355;0.9469;yawning
+img247;0.2685;1.1131;yawning
+img248;0.1862;0.3662;sleeping
+img249;0.0695;0.451;sleeping
+img250;0.1331;0.9216;sleeping and yawning
